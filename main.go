@@ -6,6 +6,6 @@ import (
 
 func main() {
 
-	fmt.Println("HW")
+	fmt.Println("HW2")
 
 }
